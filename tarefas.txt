@@ -1,2 +1,4 @@
 1. Configurar ambiente
 2. Criar estrutura do projeto
+3. Tarefa nº3
+4. Tarefa nº4
