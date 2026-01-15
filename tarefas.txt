@@ -1,0 +1,2 @@
+1. Configurar ambiente
+2. Criar estrutura do projeto
